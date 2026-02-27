@@ -1,0 +1,15 @@
+torch
+transformers
+peft
+datasets
+sentence-transformers
+faiss-cpu
+neo4j
+networkx
+pandas
+numpy
+scikit-learn
+pykeen
+pyyaml
+fastapi
+uvicorn
