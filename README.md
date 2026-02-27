@@ -27,3 +27,30 @@ python pipeline/full_pipeline.py
 - Evidence-grounded AI
 - Temporal safety risk forecasting
 - Publishable hybrid architecture
+- ## Advanced Modules
+
+### Evaluation Framework
+- Micro/Macro F1
+- AUROC, AUPRC
+- Ontology-aware semantic similarity
+
+### Causal Inference
+- Propensity Score Modeling
+- Inverse Probability Weighting
+- ATE estimation
+
+### Temporal Modeling
+- Dynamic Graph Neural Networks
+- Attention-based temporal risk forecasting
+
+## Research Contribution
+
+This framework integrates:
+
+- Ontology-driven weak supervision
+- Retrieval-augmented LLM reasoning
+- Graph neural temporal modeling
+- Causal safety effect estimation
+- Multi-agent hybrid AI architecture
+
+Designed for publication in top-tier medical AI journals.
